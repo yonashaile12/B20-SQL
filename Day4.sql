@@ -88,17 +88,3 @@ ORDER BY FIRST_NAME ASC , LAST_NAME ASC ;
 
 
 
---- Relational Database 
----consists of tables that related to each other 
-
--- Each and every table has a unique identifier column 
--- known as Primary Key 
--- This column can not have duplicate value and can not be null 
-
-
-
-
-
-
-
-
